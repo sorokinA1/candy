@@ -2,3 +2,5 @@ Rusty
 Cookie
 Rocket
 Chickens
+Monty
+Mocha
